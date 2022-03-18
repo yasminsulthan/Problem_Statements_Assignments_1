@@ -1,0 +1,11 @@
+INSERT INTO `shopping_cart`.`books` (`Book_Id`, `Book_Name`, `Author`, `Price`) VALUES ('1', 'Let Us C', 'Yeshavant P. Kanetkar', '200');
+INSERT INTO `shopping_cart`.`books` (`Book_Id`, `Book_Name`, `Author`, `Price`) VALUES ('2', 'Thinking In Java', 'Thinking In Java', '300');
+INSERT INTO `shopping_cart`.`books` (`Book_Id`, `Book_Name`, `Author`, `Price`) VALUES ('3', 'Computer Networking', 'James F. Kurose', '250');
+INSERT INTO `shopping_cart`.`books` (`Book_Id`, `Book_Name`, `Author`, `Price`) VALUES ('4', 'Head First C#', 'Andrew Stellman', '400');
+INSERT INTO `shopping_cart`.`books` (`Book_Id`, `Book_Name`, `Author`, `Price`) VALUES ('5', 'What is HTML5?', 'Brett McLaughlin', '300');
+INSERT INTO `shopping_cart`.`books` (`Book_Id`, `Book_Name`, `Author`, `Price`) VALUES ('6', 'HTML5 in Action', 'Jeo Lennon', '569');
+INSERT INTO `shopping_cart`.`books` (`Book_Id`, `Book_Name`, `Author`, `Price`) VALUES ('7', 'OOP With C++', 'Balagurusamy', '308');
+INSERT INTO `shopping_cart`.`books` (`Book_Id`, `Book_Name`, `Author`, `Price`) VALUES ('8', 'C++:The Complete Reference', 'Herbert Schildt', '532');
+INSERT INTO `shopping_cart`.`books` (`Book_Id`, `Book_Name`, `Author`, `Price`) VALUES ('9', 'Head First SQL', 'Lynn Beighley', '450');
+INSERT INTO `shopping_cart`.`books` (`Book_Id`, `Book_Name`, `Author`, `Price`) VALUES ('10', 'SQL:The Complete Reference', 'James Groff', '667');
+select * from books;

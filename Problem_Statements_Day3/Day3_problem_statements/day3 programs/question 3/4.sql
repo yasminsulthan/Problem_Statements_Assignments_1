@@ -1,0 +1,6 @@
+INSERT INTO `shopping_cart`.`users` (`first_name`, `address`, `email`, `user_name`, `password`, `registration_date`) VALUES ('Amith', 'Wagholi', 'amit.mishra369@gmail.com', '9673960407', 'mona9Dutta', '2016-11-08');
+INSERT INTO `shopping_cart`.`users` (`first_name`, `address`, `email`, `user_name`, `password`, `registration_date`) VALUES ('Hari', 'Chandan Nagar', 'hari39@rediffmail.com', '7845127421', 'Admin99@', '2016-11-08');
+INSERT INTO `shopping_cart`.`users` (`first_name`, `address`, `email`, `user_name`, `password`, `registration_date`) VALUES ('Monalisa', 'Rakshak Nagar', 'mona9@gmail.com', '9878454503', 'pinaki9@', '2016-11-08');
+INSERT INTO `shopping_cart`.`users` (`first_name`, `address`, `email`, `user_name`, `password`, `registration_date`) VALUES ('Narendra', 'Rajpath', 'narendra17@pmo.nic.in', '8877990011', 'Delhi9%', '2016-11-08');
+INSERT INTO `shopping_cart`.`users` (`first_name`, `address`, `email`, `user_name`, `password`, `registration_date`) VALUES ('Kavita', 'Rakshk Nagar Gold', 'kavi23@gmail.com', '9878521402', 'Alia8&', '2016-11-08');
+select * from users;
